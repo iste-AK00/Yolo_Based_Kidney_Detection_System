@@ -2321,7 +2321,7 @@ def get_severity(count: int, avg_conf: float) -> tuple[str, str]:
 PROJECT_LINKS = {
     # ---- TODO: paste your real URLs here once ready — nothing else in ----
     # ---- the app needs to change, these are used everywhere below.    ----
-    "github_repo": "#",  # e.g. "https://github.com/your-username/kidney-stone-detection"
+    "github_repo": "https://github.com/iste-AK00/Yolo_Based_Kidney_Detection_System",
     "kaggle_bbox_dataset": "https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images",
     "roboflow_dataset": "https://universe.roboflow.com/east-west-university-9frzq/kidney-stone-detection-wfjba",
     "kaggle_classifier_dataset": "https://www.kaggle.com/datasets/orvile/axial-ct-imaging-dataset-kidney-stone-detection",
